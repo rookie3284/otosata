@@ -1,2 +1,2 @@
 build:
-	uvicorn main:app --reload
+	uvicorn otosata.main:app --reload
